@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment 3/assignment 3.iml" filepath="$PROJECT_DIR$/assignment 3/assignment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment 4/assignment 4.iml" filepath="$PROJECT_DIR$/assignment 4/assignment 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment 5/assignment 5.iml" filepath="$PROJECT_DIR$/assignment 5/assignment 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPatterns/designPatterns.iml" filepath="$PROJECT_DIR$/designPatterns/designPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labwork.iml" filepath="$PROJECT_DIR$/labwork.iml" />
+    </modules>
+  </component>
+</project>
