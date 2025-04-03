@@ -1,3 +1,7 @@
+/*Library Book Management
+•	Create a Book class with attributes: bookId, title, author, price.
+•	Accept details of N books from the user and store them in an array of objects.
+•	Display the details of books where price > ₹500.*/
 import java.util.*;
 import java.util.Arrays;
 

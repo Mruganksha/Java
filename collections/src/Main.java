@@ -1,3 +1,15 @@
+/*choosing the Right Collection
+
+You are developing a social media application where:
+
+    A user's posts should be stored in the order they were added and should allow duplicates.
+
+    A list of unique followers should be stored in an efficient way.
+
+    The top trending posts should be sorted based on likes.
+
+Which Java collection(s) would you use for each requirement? Implement the classes and justify your choices.*/
+
 import java.util.*;
 
 class SocialMediaApp {

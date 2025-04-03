@@ -1,3 +1,8 @@
+/*The program should allow the user to select a discount type:
+1 → Festival Offer (10%)
+2 → Membership Offer (15%)
+3 → No Discount
+Accept the original price from the user and calculate the final price after applying the selected discount.*/
 import java.util.*;
 
 public class discount {

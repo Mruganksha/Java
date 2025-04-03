@@ -1,3 +1,11 @@
+/*You are developing a library management system and need to implement a generic class Library<T> that can store books, journals, or magazines.
+
+    Implement the generic class Library<T>.
+
+    Ensure that only objects of type Book, Journal, or Magazine can be added.
+
+    Add a method getItems() that returns all stored items.*/
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,24 @@
+/*You are developing a vehicle rental system for a company. The system needs to handle different types of vehicles, their rental pricing, and unique features.
+Requirements:
+
+    Abstract Class - Vehicle
+        Should have attributes like brand, model, and rentalPrice.
+        Should have an abstract method calculateRentalPrice(int days).
+        Should have a final method displayInfo() to print vehicle details.
+
+    Concrete Classes (Inheritance):
+        Car (extends Vehicle)
+            Has seatCapacity and implements calculateRentalPrice().
+        Bike (extends Vehicle)
+            Has engineCapacity and implements calculateRentalPrice().
+
+    Final Class - LuxuryCar (Cannot be inherited further)
+        Extends Car and overrides calculateRentalPrice() with luxury charges.
+
+    Main Class (RentalService)
+        Create objects of Car, Bike, and LuxuryCar.
+        Demonstrate polymorphism and method overriding.*/
+
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

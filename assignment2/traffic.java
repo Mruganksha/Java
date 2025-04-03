@@ -1,5 +1,12 @@
-import java.util.*;
+/*Traffic Light System
+Simulate a traffic light system using conditional statements.
+The program should take user input for a light color (Red, Yellow, Green) and display the corresponding action:
+Red: Stop
+Yellow: Get Ready
+Green: Go
+If the user enters an invalid color, display "Invalid Input".*/
 
+import java.util.*;
 public class traffic {
     public static void displayAction(String color){
         switch(color){

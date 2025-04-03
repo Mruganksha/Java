@@ -1,5 +1,13 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/*Calculator Program
+
+Write a Java program to create a class named Calculator that:
+    Contains static methods to perform basic arithmetic operations (addition, subtraction, multiplication, division, and modulus) using int and double data types.
+    Demonstrates the use of both unary operators (like ++, --) and binary operators (like +, -, *, /, %).
+    Includes methods to demonstrate the precedence and associativity of operators using appropriate examples.
+    In the main() method, call all the static methods using the class name and print the results. */
+
 public class Calculator{
     static double a = 5d;
     static double b = 3d;
