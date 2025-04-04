@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic 6 class/Generic 6 class.iml" filepath="$PROJECT_DIR$/Generic 6 class/Generic 6 class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gui container/Gui container.iml" filepath="$PROJECT_DIR$/Gui container/Gui container.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignment 3/assignment 3.iml" filepath="$PROJECT_DIR$/assignment 3/assignment 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignment 4/assignment 4.iml" filepath="$PROJECT_DIR$/assignment 4/assignment 4.iml" />
